@@ -1,3 +1,6 @@
+## Ejercicio de prueba técnica de maquetación
+Para abrirlo debe clonar el repositorio desde la parte superior o descargar el archivo como .zip. Una vez descargado se descomprime y en el editor de código, preferentemente Visual Studio Code correr el comando "npm install", sin las comillas, para instalar las dependencias que se pueden ver en el archivo package.json, necesarias para funcionar el proyecto. Una vez instalado. "npm run dev" para levantar el entorno de desarrollo .
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
